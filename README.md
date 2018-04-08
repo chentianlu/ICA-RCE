@@ -1,5 +1,5 @@
 # ICA-RCE
-This matlab based software (ICA-RCE) is to correct the baseline of metabolic dataset by using ICA (independant component analysis). That is, to remove the unwanted effect of known confactors (covariants) such as age, BMI, gender and so on. The aim of this software is same to that of MCEE (https://github.com/chentianlu/MCEE) although their algothrim are quite different. Additionally, this software has more functions and friendly GUI.
+This matlab based software (ICA-RCE) is to correct the baseline of metabolic dataset by using ICA (independant component analysis). That is, to remove the unwanted effect of known confactors (covariants) such as age, BMI, gender and so on. The aim of this software is same to that of MCEE (https://github.com/chentianlu/MCEE) although their algothrims are quite different. 
 
 Main functions (modules):
 1) Data preprocessing functions: normalization and log transform. 
